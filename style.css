@@ -656,6 +656,9 @@ body {
     margin-bottom: 1.7vw;
 }
 
+#mobile-warning {
+    display: none; 
+}
 
 
 /* Media query to target only phones */
